@@ -7,33 +7,33 @@ Meet the organizers and join our open info session on MS Teams (installed MS Tea
 - Thu, Month dd, 6-7pm, BST
 - Mon, Month dd, 6-7pm, BST
 
-### This online course teaches how to
+This online course teaches how to
 
-visually explore data
-criticise data visualisations,
-design visualisations, and
-implement data visualisations.
+- visually explore data
+- criticise data visualisations,
+- design visualisations, and
+- implement data visualisations.
 
-### It covers the fundamentals of
+It covers the fundamentals of
 
-human perception and data visualisation,
-exploratory data analysis,
-the importance of interaction in exploration,
-techniques for data visualisation (networks, temporal data, geographic data, etc..),
-storytelling and communication,
-tools for data visualisation, and
-evaluation.
+- human perception and data visualisation,
+- exploratory data analysis,
+- the importance of interaction in exploration,
+- techniques for data visualisation (networks, temporal data, geographic data, etc..),
+- storytelling and communication,
+- tools for data visualisation,and 
+- evaluation.
 
 With an aim to build skills that allow participants to directly apply their learning, the course features online videos and reading material, mini tutorials, drop-in sessions, complementary online teaching material, and seminars by guest speakers. More about the course organisation and its schedule.
 
 We encourage BYOD—bring and work on your own data project (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as climate change, COVID-19 and gender participation (e.g., the No Ceilings project (github repository), and Scotland’s Open Data Catalogues.
 ### Learning Outcomes
 
-- **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required.
-- **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
-- **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
-- **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions.
-- **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required.
+2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
+3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
+4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions.
+5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
 
 ### Takeaways
 A certificate to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)  
@@ -41,7 +41,8 @@ Visual representation of your dataset that enables you to answer the challenge y
 Skills to develop further visual literacy to support data-driven work.
 
 Browse further detail on the course structure.
-Submit Application
+
+## Submit Application
 
 Applications are now being accepted for the course. Please note that you must state that you are registering for the course Data Visualisation for Professionals in the “Supporting Statement” section of the application form.
 Course Delivery Information
