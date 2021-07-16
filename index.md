@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Data Science in Manufacturing
 
 You can use the [editor on GitHub](https://github.com/danaik/ds_manu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
